@@ -1,6 +1,10 @@
-import React from "react"
+import {useGSAP} from "@gsap/react";
 
 const About = () => {
+    useGSAP(() => {
+    const titleSplit = splitText.create( )
+    })
+
     return (
         <div id="about">
          <div className="mb-16 md:px-0 px-5">
