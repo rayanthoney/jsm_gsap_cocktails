@@ -1,4 +1,5 @@
 import React from 'react'
+import {goodLists} from "../../constants/index.js";
 
 const Art = () => {
     return (
@@ -11,7 +12,7 @@ const Art = () => {
                         {goodLists.map((feature, index) => (
                             <li key={index} className="flex items-center gap-2">
                              <img src="/images/check.png" alt="check" />
-                                <p>  </p>
+                                <p></p>
                             </li>
                         ))}
                     </ul>
