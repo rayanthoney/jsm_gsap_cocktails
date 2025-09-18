@@ -14,7 +14,7 @@
 <h2 align="center">Cocktails GSAP Animations 👋</h2>
 
    <p align="center">
-    <h3>Immersive cocktail website with scroll-synced video playback and cinematic animations. It will use React and TailwindCSS to bring the experience to life,.</h3>
+    <h3>Immersive cocktail website with scroll-synced video playback and cinematic animations. It will use React and TailwindCSS to bring the experience to life</h3>
     <br />
     <a href="https://github.com/rayanthoney/jsm_gsap_cocktails.git"><strong>Explore the docs »</strong></a>
     <br />
@@ -107,10 +107,11 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+[//]: # (This is an [Expo]&#40;https://expo.dev&#41; project created with [`create-expo-app`]&#40;https://www.npmjs.com/package/create-expo-app&#41;.)
 
 <br>
-Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Uber Clone is a perfect mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's skills in a unique manner that creates a lasting impact.
+
+[//]: # (Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Uber Clone is a perfect mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's skills in a unique manner that creates a lasting impact.)
 
 <!-- PREREQUISITES -->
 ## Prerequisites
