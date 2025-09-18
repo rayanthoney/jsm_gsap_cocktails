@@ -125,8 +125,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/rayanthoney/react-nativeRyde.git
-cd uber
+git clone https://github.com/rayanthoney/jsm_gsap_cocktails
+cd jsm_gsap_cocktails
 ```
 
 <!-- INSTALLATION -->
@@ -141,20 +141,20 @@ cd uber
 2. Start the app
 
    ```bash
-   npx expo start
+   npm run dev
    ```
 
-In the output, you'll find options to open the app in a
+<!-- In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction). -->
 
 <!-- FRESH PROJECT -->
-### Get a fresh project
+<!-- ### Get a fresh project
 
 When you're ready, run:
 
@@ -162,15 +162,15 @@ When you're ready, run:
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing. -->
 
 <!-- LEARN MORE -->
-### Learn more
+<!-- ### Learn more
 
 To learn more about developing your project with Expo, look at the following resources:
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web. -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -185,7 +185,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
+<!-- - [x] Add Changelog
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
@@ -193,7 +193,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues). -->
 
 <!-- LICENSE -->
 ## License
@@ -203,12 +203,12 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ray Anthoney - [@rayanthoney](https://twitter.com/@rayanthoney) - email@example.com
+Ray Anthoney - [RayAnthoney - twitter](https://twitter.com/@rayanthoney) 
 
-Project Link: [https://github.com/rayanthoney/react-nativeRyde](https://github.com/rayanthoney/react-nativeRyde)
+Project Link: [Cocktail - GSAP Animations](https://github.com/rayanthoney/jsm_gsap_cocktails)
 
 ## Contributing
-
+<!-- 
 ### Tutorial
 
 This [GitHub](https://github.com/adrianhajdin/uber.git) repository contains the code corresponding to an in-depth tutorial available on the YouTube
@@ -217,7 +217,7 @@ channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_bl
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects
 like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/kmy_YNhl0mw" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://youtu.be/kmy_YNhl0mw" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a> -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
